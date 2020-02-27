@@ -1,0 +1,28 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoMorato/Jest.git"
+  },
+  "author": "Ricardo Morato Rocha <ricardomorator@hotmail.com>",
+  "license": "MIT",
+  "description": "Getting started on Jest",
+  "bugs": {
+    "url": "https://github.com/RicardoMorato/Jest/issues"
+  },
+  "homepage": "https://github.com/RicardoMorato/Jest#readme",
+  "dependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "jest"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-scripts": "^3.4.0"
+  }
+}
